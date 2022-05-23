@@ -14,6 +14,7 @@ importers:
     specifiers:
       '@types/node': ^17.0.12
       '@types/react': 17.0.37
+      auto: ^10.37.0
       eslint: 7.32.0
       eslint-config-custom: workspace:*
       next: 12.0.8
@@ -31,6 +32,7 @@ importers:
     devDependencies:
       '@types/node': 17.0.35
       '@types/react': 17.0.37
+      auto: 10.37.0_typescript@4.6.4
       eslint: 7.32.0
       eslint-config-custom: link:../../packages/eslint-config-acme
       next-transpile-modules: 9.0.0
