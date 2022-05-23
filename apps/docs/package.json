@@ -1,12 +1,12 @@
 {
   "name": "turbo_test_upd_jmk",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.3",
   "scripts": {
     "dev": "next dev --port 3001",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "release": "auto shipit"
   },
   "dependencies": {
     "next": "12.0.8",
