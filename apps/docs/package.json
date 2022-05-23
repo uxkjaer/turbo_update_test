@@ -1,6 +1,6 @@
 {
-  "name": "docs",
-  "version": "0.0.0",
+  "name": "turbo_test_upd_jmk",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev --port 3001",
