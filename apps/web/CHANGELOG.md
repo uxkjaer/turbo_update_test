@@ -1,3 +1,15 @@
+# v0.1.0 (Mon May 23 2022)
+
+#### 🚀 Enhancement
+
+- Release2 [#2](https://github.com/uxkjaer/turbo_update_test/pull/2) ([@uxkjaer](https://github.com/uxkjaer))
+
+#### Authors: 1
+
+- Jakob Marius Kjaer ([@uxkjaer](https://github.com/uxkjaer))
+
+---
+
 # (Mon May 23 2022)
 
 #### 🚀 Enhancement
